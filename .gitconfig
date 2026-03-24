@@ -1,3 +1,5 @@
 [user]
 	name = Daniel Chiesa
 	email = chiesad1@gmail.com
+[init]
+	defaultBranch = main
